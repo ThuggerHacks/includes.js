@@ -59,4 +59,4 @@ Feel free to contribute, the code is opensource, feel free to edit, clone, fork 
 
 
 ### License
-This project was started by Braimo Selimane A.K.A ThuggerHacks in August 9,2023 to make HTML more organized that it is, being able to make independednt components and import them using html html tags, also send that to them, I hope this project helps somehow and whoever gets a new idea can make it happen!
+This project was started by Braimo Selimane A.K.A ThuggerHacks in August 9,2023 to make HTML more organized than it is, being able to make independednt components and import them using html html tags, also send that to them, I hope this project helps somehow and whoever gets a new idea can make it happen!
