@@ -22,7 +22,7 @@ You can include includesjs in your projects using the following CDN link:
 ```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/includesjs/{version}/includes.min.js"></script>
 
-<h1>USAGE</h1>
+###USAGE
 
 index.html
 <!DOCTYPE html>
