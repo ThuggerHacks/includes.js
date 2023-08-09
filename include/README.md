@@ -21,9 +21,9 @@ You can include includesjs in your projects using the following CDN link:
 
 ```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/includesjs/{version}/includes.min.js"></script>
-
-###USAGE
-
+```
+### USAGE
+```html
 index.html
 <!DOCTYPE html>
 <html lang="en">
@@ -51,3 +51,11 @@ navbar.html
 <nav>
     Navbar {{valor}} - {{nome}}
 </nav>
+
+```
+
+### Contributing
+Feel free to contribute, the code is opensource, feel free to edit, clone, fork as long as you don't spoil anything...
+
+
+### License
